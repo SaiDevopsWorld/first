@@ -2,4 +2,6 @@
 
 testing git
 
-adding from github
+adding from githu
+
+this line added by user1 branchb
